@@ -1,0 +1,7 @@
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem #858\DailyCodingProblem858\DailyCodingProblem858\bin\Debug\DailyCodingProblem858.exe.config
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem #858\DailyCodingProblem858\DailyCodingProblem858\bin\Debug\DailyCodingProblem858.exe
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem #858\DailyCodingProblem858\DailyCodingProblem858\bin\Debug\DailyCodingProblem858.pdb
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem #858\DailyCodingProblem858\DailyCodingProblem858\obj\Debug\DailyCodingProblem858.csprojAssemblyReference.cache
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem #858\DailyCodingProblem858\DailyCodingProblem858\obj\Debug\DailyCodingProblem858.csproj.CoreCompileInputs.cache
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem #858\DailyCodingProblem858\DailyCodingProblem858\obj\Debug\DailyCodingProblem858.exe
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem #858\DailyCodingProblem858\DailyCodingProblem858\obj\Debug\DailyCodingProblem858.pdb
