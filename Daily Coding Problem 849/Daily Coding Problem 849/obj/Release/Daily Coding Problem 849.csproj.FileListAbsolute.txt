@@ -4,3 +4,4 @@ C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Dai
 C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Daily Coding Problem 849\obj\Release\Daily Coding Problem 849.csproj.CoreCompileInputs.cache
 C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Daily Coding Problem 849\obj\Release\Daily Coding Problem 849.exe
 C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Daily Coding Problem 849\obj\Release\Daily Coding Problem 849.pdb
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Daily Coding Problem 849\obj\Release\Daily Coding Problem 849.csprojAssemblyReference.cache
