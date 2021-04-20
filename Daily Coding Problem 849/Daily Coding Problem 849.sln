@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daily Coding Problem 849", "Daily Coding Problem 849\Daily Coding Problem 849.csproj", "{2CC48690-7A55-4BC3-8481-4636182BEDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC48690-7A55-4BC3-8481-4636182BEDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC48690-7A55-4BC3-8481-4636182BEDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC48690-7A55-4BC3-8481-4636182BEDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC48690-7A55-4BC3-8481-4636182BEDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB1457C-9170-4412-9F66-4DE3AA11FC61}
+	EndGlobalSection
+EndGlobal
