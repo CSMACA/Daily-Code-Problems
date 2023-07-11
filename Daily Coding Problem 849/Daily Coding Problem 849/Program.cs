@@ -30,7 +30,8 @@ namespace Daily_Coding_Problem_849
             int runNum=0;
             do
             {
-                //Console.WriteLine("Value of num at start: " + num);
+                Console.WriteLine("-----------------Start Step------------------");
+                Console.WriteLine("Value of num at start: " + num);
                 if (num % 2 == 0)
                 {
                     num = num / 2;
@@ -40,11 +41,11 @@ namespace Daily_Coding_Problem_849
                     num = (3 * num) + 1;
                 }
                 runNum++;
-                //Console.WriteLine("Value of num at end: " + num);
-
+                Console.WriteLine("Value of num at end: " + num);
+                Console.WriteLine("-----------------End Step------------------");
 
             } while (num != 1);
-            return "Success, number of steps: " + runNum;
+            return string.Format("Reached 1 after {0} steps.", runNum);
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.csproj.AssemblyReference.cache
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.AssemblyInfoInputs.cache
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.AssemblyInfo.cs
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.csproj.CoreCompileInputs.cache
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\bin\Release\net5.0\Testing Something.exe
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\bin\Release\net5.0\Testing Something.deps.json
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\bin\Release\net5.0\Testing Something.runtimeconfig.json
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\bin\Release\net5.0\Testing Something.runtimeconfig.dev.json
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\bin\Release\net5.0\Testing Something.dll
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\bin\Release\net5.0\ref\Testing Something.dll
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\bin\Release\net5.0\Testing Something.pdb
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.dll
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\ref\Testing Something.dll
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.pdb
+C:\Users\arsci\Documents\GitHub\Daily-Code-Problems\Daily Coding Problem 849\Testing Something\obj\Release\net5.0\Testing Something.genruntimeconfig.cache

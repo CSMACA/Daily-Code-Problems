@@ -51,7 +51,6 @@ namespace DailyCodingProblem858
             }
             Console.ReadKey();
         }
-
         public static double findMean(List<double> a, double n)
         {
             double sum = 0;
